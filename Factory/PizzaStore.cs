@@ -2,13 +2,7 @@
 {
     public abstract class PizzaStore
     {
-        SimplePizzaFactory factory;
-
-        public PizzaStore(SimplePizzaFactory factory)
-        {
-            this.factory = factory;
-        }
-
+        
         public Pizza OrderPizza(string type)
         {
             Pizza pizza = CreatePizza(type);
@@ -21,6 +15,6 @@
             return pizza;
         }
 
-        public abstract Pizza CreatePizza(string type);
+        protected abstract Pizza CreatePizza(string type);
     }
 }
