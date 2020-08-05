@@ -4,10 +4,13 @@ using System.Text;
 
 namespace Factory
 {
-    public class SimplePizzaFactory
+    public class NYStylePizzaStore : PizzaStore
     {
-        /*
-        public Pizza CreatePizza(string type)
+        public NYStylePizzaStore(SimplePizzaFactory factory) : base(factory)
+        {
+        }
+
+        public override Pizza CreatePizza(string type)
         {
             Pizza pizza = null;
 
@@ -21,6 +24,5 @@ namespace Factory
 
             return pizza;
         }
-        */
     }
 }

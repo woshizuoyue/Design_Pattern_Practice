@@ -1,6 +1,6 @@
 ﻿namespace Factory
 {
-    public class PizzaStore
+    public abstract class PizzaStore
     {
         SimplePizzaFactory factory;
 
@@ -11,7 +11,7 @@
 
         public Pizza OrderPizza(string type)
         {
-            Pizza pizza = factory.CreatePizza(type);
+            Pizza pizza = CreatePizza(type);
 
             pizza.Prepare();
             pizza.Bake();
@@ -20,5 +20,7 @@
 
             return pizza;
         }
+
+        public abstract Pizza CreatePizza(string type);
     }
 }
