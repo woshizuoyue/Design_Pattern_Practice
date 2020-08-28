@@ -2,10 +2,7 @@
 {
     public class Decat : Beverage
     {
-        public Decat()
-        {
-            _description = "Decat";
-        }
+        public Decat() => _description = "Decat";
 
         public override double Cost()
         {

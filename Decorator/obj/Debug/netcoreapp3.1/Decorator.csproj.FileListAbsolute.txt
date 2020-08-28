@@ -10,3 +10,4 @@ C:\Users\YZuo\source\repos\Desgin_Pattern_Practice\Decorator\obj\Debug\netcoreap
 C:\Users\YZuo\source\repos\Desgin_Pattern_Practice\Decorator\obj\Debug\netcoreapp3.1\Decorator.dll
 C:\Users\YZuo\source\repos\Desgin_Pattern_Practice\Decorator\obj\Debug\netcoreapp3.1\Decorator.pdb
 C:\Users\YZuo\source\repos\Desgin_Pattern_Practice\Decorator\obj\Debug\netcoreapp3.1\Decorator.genruntimeconfig.cache
+C:\Users\YZuo\source\repos\Desgin_Pattern_Practice\Decorator\obj\Debug\netcoreapp3.1\Decorator.csprojAssemblyReference.cache
