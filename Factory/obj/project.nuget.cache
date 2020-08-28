@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iqlXU9eoyhndAWS3IRSnIKJHmNe6v8zimDltYq/QcXYVTUylg+FP7OpEoyRIzPXgb2C2tydlc47ryewxbKrmrQ==",
+  "dgSpecHash": "x/VTi4hZXh0UkjM5rq6thbE52idBTYnb959llOQDgquuigS3IE73+G0syEdkvGfNyFvO8LgrmeCuxnu+G7YjEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YZuo\\source\\repos\\Desgin_Pattern_Practice\\Factory\\Factory.csproj",
+  "projectFilePath": "C:\\Users\\woshi\\utils\\Design_Pattern_Practice\\Factory\\Factory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

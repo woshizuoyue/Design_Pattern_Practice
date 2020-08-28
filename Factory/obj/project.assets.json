@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\YZuo\\.nuget\\packages\\": {},
+    "C:\\Users\\woshi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YZuo\\source\\repos\\Desgin_Pattern_Practice\\Factory\\Factory.csproj",
+      "projectUniqueName": "C:\\Users\\woshi\\utils\\Design_Pattern_Practice\\Factory\\Factory.csproj",
       "projectName": "Factory",
-      "projectPath": "C:\\Users\\YZuo\\source\\repos\\Desgin_Pattern_Practice\\Factory\\Factory.csproj",
-      "packagesPath": "C:\\Users\\YZuo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YZuo\\source\\repos\\Desgin_Pattern_Practice\\Factory\\obj\\",
+      "projectPath": "C:\\Users\\woshi\\utils\\Design_Pattern_Practice\\Factory\\Factory.csproj",
+      "packagesPath": "C:\\Users\\woshi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\woshi\\utils\\Design_Pattern_Practice\\Factory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\YZuo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\woshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,8 +32,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://artifactory.foc.zone/artifactory/api/nuget/nuget-virtual": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -63,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015178\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
