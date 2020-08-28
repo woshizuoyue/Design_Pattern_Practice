@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dWQ9KOCTRAq/0hgOfRIsEeKsXFJfIcCNZsYn6qVShN1lVmoUJ/SJUZEg7d1ErBbFi8aZt6ID27fTBSkaa/UCTw==",
+  "dgSpecHash": "slBKgXzwYxsY2GCbkPFymGBw1BHTg1UG0hkTfTUiTRVUKpvs7wHGYW6/AgqeKywuE1zOgFfZ/ih2HUA1ZF7mrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YZuo\\source\\repos\\Desgin_Pattern_Practice\\Decorator\\Decorator.csproj",
+  "projectFilePath": "C:\\Users\\woshi\\utils\\Design_Pattern_Practice\\Decorator\\Decorator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
